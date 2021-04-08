@@ -9,3 +9,4 @@
 
 ## About Laravel
 
+Este es un programa el cual fue realizado en laravel 8, con pequeños problemas, al monento de aprender lo que eran la sintaxis ya que si tiene varios cambios con respecto a su version anterior, pero ya quedo funcionando, me gusta mucho el framawork espero poder seguir haciendo proyectos a si , en mis tiempos libres.
